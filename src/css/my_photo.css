@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+}
+
+.subject {
+  margin: 20px;
+}
+
+.label-top {
+  height:40px;
+  background-color: #f4f5f9;
+  border: #e6e7e9 solid 1px;
+  border-radius: 5px 5px 0 0;
+ }
+
+.label-title {
+  font-size: 13px;
+  font-weight: bold;
+  margin: 12px 5px 5px 18px;
+  color: #6c6c6c;
+}
+
+.label-bottom {
+  border: #e6e7e9 solid 1px;
+  border-radius: 0 0 5px 5px;
+  padding: 20px 20px 0 20px;
+}
+
+div.label-medium {
+  border: #e6e7e9 solid 1px;
+  padding: 20px;
+}
+
+.img,.content {
+  display: inline-block;
+}
+
+.content {
+  position: absolute;
+  width: 75%;
+  height: 150px;
+  margin: 0 20px 0 20px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.description {
+  width: 100%;
+  height:  auto;
+  font-size: 10px;
+}
+
+.button {
+  position: absolute;
+  bottom: 0;
+}
+
+input[type="button"] {
+  font-weight: 700;
+  border-radius: 5px;
+  background: linear-gradient(to top,#52a843,#6bcf5b);
+  border-top: #468d41 solid 1px;
+  border-right: #468d41 solid 1px;
+  border-left: #468d41 solid 1px;
+  border-bottom: #52a843 solid 1px;
+  height: 30px;
+  color: white;
+  width: 70px;
+}
+
+input[name="Modify"] {
+  margin-right: 20px;
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+}
+
+.no-label-pic {
+  text-align: center;
+  min-height: 800px;
+  border: #e6e7e9 solid 1px;
+  border-radius: 0 0 5px 5px;
+  height: auto;
+}
+.noResult {
+  display: inline-block;
+  margin-top: 200px;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.pageIndicator {
+  width: 30px;
+  display: inline-block;
+  color: #000000;
+}

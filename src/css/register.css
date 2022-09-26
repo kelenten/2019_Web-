@@ -1,0 +1,64 @@
+
+.logo {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.div-f {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+form {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  border-radius: 5px;
+  background-color: #f6f6f6;
+  width: 350px;
+  border: #d9d9d9 solid 1px;
+  padding: 0 20px 20px 20px;
+
+}
+
+form p {
+  font-size: 17px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+input[type="text"],input[type="password"],input[type="email"] {
+  border-radius: 5px;
+  border: #000000 solid 1px;
+  height: 25px;
+  width: 350px;
+}
+
+input[type="submit"] {
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 20px;
+  color: white;
+  height: 37px;
+  width: 353px;
+  border-radius: 5px;
+  background: linear-gradient(to top,#52a843,#6bcf5b);
+  border-top: #468d41 solid 1px;
+  border-right: #468d41 solid 1px;
+  border-left: #468d41 solid 1px;
+  border-bottom: #52a843 solid 1px;
+  text-align: center;
+}
+
+.div-s {
+  margin-top: 10px;
+  margin-bottom: 150px;
+  text-align: center;
+}
+
+.blue {
+  color: blue;
+}

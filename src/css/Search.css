@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+}
+
+.label-top {
+  height:40px;
+  background-color: #f4f5f9;
+  border: #e6e7e9 solid 1px;
+  border-radius: 5px 5px 0 0;
+}
+
+.label-medium {
+  box-sizing: border-box;
+  padding: 20px;
+  height: 300px;
+  border: #e6e7e9 solid 1px;
+}
+
+.label-bottom {
+  border: #e6e7e9 solid 1px;
+  border-radius: 0 0 5px 5px;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 8px;
+}
+
+.title {
+  margin: 10px 5px 5px 18px;
+  color: #6c6c6c;
+}
+
+.subject {
+  margin: 28px 20px 28px 20px;
+}
+
+.label {
+  margin: 25px 0 25px 0;
+}
+
+input[type="radio"] {
+  margin-left: 10px;
+}
+
+.radio {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: bold;
+  margin-left: 12px;
+}
+
+input[type="text"] {
+  margin-left: 10px;
+  border: #666666 solid 1px;
+  border-radius: 5px;
+  width: 95%;
+  height: 30px;
+}
+
+textarea {
+  font-family: "Microsoft YaHei UI Light";
+  margin-left: 10px;
+  border: #666666 solid 1px;
+  border-radius: 5px;
+  width: 95%;
+  height: 90px;
+}
+
+input[type="button"] {
+  color: #ffffff;
+  font-weight: bold;
+  height: 35px;
+  width: 110px;
+  background: linear-gradient(to top,#52a843,#6bcf5b);
+  border-top: #468d41 solid 1px;
+  border-right: #468d41 solid 1px;
+  border-left: #468d41 solid 1px;
+  border-bottom: #52a843 solid 1px;
+  border-radius: 5px;
+  margin: 13px 0 10px 10px;
+}
+
+.img {
+  height: 260px;
+  width: 260px;
+}
+
+.introduce {
+  width: 65%;
+  display: inline-block;
+  margin: 0 0 0 30px;
+}
+
+.introduce-title {
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px 0 20px 0;
+}
+
+.introduce-description {
+  padding: 20px 0 20px 0;
+  overflow: hidden;
+  width: 970px;
+  height: auto;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.pageIndicator {
+  width: 30px;
+  display: inline-block;
+  color: #000000;
+}
+
+.no-label-pic {
+  text-align: center;
+  min-height: 500px;
+  border: #e6e7e9 solid 1px;
+  border-radius: 0 0 5px 5px;
+  height: auto;
+}
+.noResult {
+  display: inline-block;
+  margin-top: 200px;
+}
+
+
+
